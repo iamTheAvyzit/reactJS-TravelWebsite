@@ -1,3 +1,9 @@
+# Desktop View for Tripping Website : 🔥🔥 Live Version available at https://iamtheavyzit.github.io/reactJS-TrippingWebsite/ 
+![TrippingDesktopView](https://user-images.githubusercontent.com/94052679/148733341-7004ffba-93a9-4e3d-b2d5-96abdce22d8c.png)
+
+# Responsive Design for all other screen sizes:
+![TrippingMobileView](https://user-images.githubusercontent.com/94052679/148733357-c137de37-ab79-4773-b3bc-3d05890d2123.png)
+
 # reactJS-TravelWebsite
 Building a Travel Website in React from scratch. This project uses React Hooks and React Router and the website is fully responsive as well. Feel free to refactor the code and send me your versions!
 
