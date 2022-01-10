@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactJS-TrippingWebsite/static/css/main.60e31892.chunk.css",
+    "main.js": "/reactJS-TrippingWebsite/static/js/main.59fec2f2.chunk.js",
+    "main.js.map": "/reactJS-TrippingWebsite/static/js/main.59fec2f2.chunk.js.map",
+    "runtime-main.js": "/reactJS-TrippingWebsite/static/js/runtime-main.0e6cd706.js",
+    "runtime-main.js.map": "/reactJS-TrippingWebsite/static/js/runtime-main.0e6cd706.js.map",
+    "static/js/2.d803bb4d.chunk.js": "/reactJS-TrippingWebsite/static/js/2.d803bb4d.chunk.js",
+    "static/js/2.d803bb4d.chunk.js.map": "/reactJS-TrippingWebsite/static/js/2.d803bb4d.chunk.js.map",
+    "index.html": "/reactJS-TrippingWebsite/index.html",
+    "static/css/main.60e31892.chunk.css.map": "/reactJS-TrippingWebsite/static/css/main.60e31892.chunk.css.map",
+    "static/js/2.d803bb4d.chunk.js.LICENSE.txt": "/reactJS-TrippingWebsite/static/js/2.d803bb4d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactJS-TrippingWebsite/static/media/img-plan.fcb7f59f.jpg",
+    "static/media/img-2.bb238fc1.jpg": "/reactJS-TrippingWebsite/static/media/img-2.bb238fc1.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/reactJS-TrippingWebsite/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/reactJS-TrippingWebsite/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/reactJS-TrippingWebsite/static/media/img-9.f97f588f.jpg",
+    "static/media/mountains.71918c7f.jpg": "/reactJS-TrippingWebsite/static/media/mountains.71918c7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e6cd706.js",
+    "static/js/2.d803bb4d.chunk.js",
+    "static/css/main.60e31892.chunk.css",
+    "static/js/main.59fec2f2.chunk.js"
+  ]
+}
